@@ -9,6 +9,7 @@ IT테스터과정입니다
 [네이버검색](http://www.naver.com)<br>
 [동물병원시스템프로젝트](https://github.com/younosuri-art/hello-world/edit/main/README.md)<br>
 [발표자료](/pp.ppt)<br>
+[발표자료](/파워.ppt)<br>
 >들여쓰기<br>
 >>한번더 들여쓰기<br>
 >>>두번 들여쓰기<br>
